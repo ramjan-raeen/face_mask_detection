@@ -39,7 +39,6 @@ import os
 
 IMAGE_SIZE = 224
 CHANNELS = 3
-
 INIT_LR = 1e-4
 EPOCHS = 50
 BS = 32
